@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "potere:item/power_crystal_base",
+        "layer1": "potere:item/power_crystal_overlay"
+    }
+}
